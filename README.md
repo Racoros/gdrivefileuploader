@@ -1,6 +1,6 @@
 # Gdrivefileuploader
 
-### linkedin: https://www.linkedin.com/in/racoros/
+## for lazy persons.
 
 This project is intended for on the fly backup of files.
 Recommended when using crontab.
